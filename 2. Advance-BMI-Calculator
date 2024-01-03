@@ -17,6 +17,12 @@ elif bmi >= 35:
 
 
 # Output:
+# Sample - 1
 # enter your weight in kg: 80
 # enter your height in feet: 6.2
 # Your BMI is 22.4, and Your are "Normal weight"
+
+# Sample - 2
+enter your weight in kg: 90
+enter your height in feet: 5.8
+Your BMI is 28.8, and Your are "Slightly Overweight"
